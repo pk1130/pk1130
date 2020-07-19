@@ -20,8 +20,6 @@
 
 <div>
   <p>
-    
-    
     I'm a rising junior Computer Science major at <a href="www.cs.umd.edu">University of Maryland, College Park</a>.I'm working on my Bachelor's degree at UMD, majoring in Computer Science and minoring in Statistics. I have gained experience in data science, computer vision, deep learning and software engineering paradigms through my internships and courses. I am obsessed with fintech and am always exploring ways to break into the field. 
     I'm super enthusiastic about working on new projects and am always looking for new people to collaborate with! Hit me up if you want to contribute to any of my projects or think you want to work on something interesting with me!
     
@@ -32,7 +30,6 @@
  
  <div><p>The projects I am currently working on: </p></div>
  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=handwriting_classification)](https://github.com/ApurvShah007/handwriting_classification)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pk1130&repo=pk1130.github.io)](https://github.com/pk1130/pk1130.github.io)
 
  
