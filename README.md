@@ -32,6 +32,7 @@
  <div><p>The projects I am currently working on: </p></div>
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pk1130&repo=pk1130.github.io)](https://github.com/pk1130/pk1130.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pk1130&repo=netflix-clone)](https://github.com/pk1130/netflix-clone)
 
  
  <br><br>
